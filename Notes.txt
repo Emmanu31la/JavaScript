@@ -1,0 +1,5 @@
+// * Highlighted comment (usually light green)
+// ! Alert or warning comment (usually red)
+// ? Question comment (usually blue)
+// TODO: Things you need to do later (usually orange)
+// Normal comment
